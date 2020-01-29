@@ -1,0 +1,9 @@
+discord 
+asyncio
+time
+json
+TinyDB
+wolframalpha
+wikipedia
+requests
+sys
